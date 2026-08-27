@@ -1,0 +1,22 @@
+{
+  "name": "streamly",
+  "version": "1.0.0",
+  "description": "this is a fun and learning project",
+  "keywords": [
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "raghav dolyar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
